@@ -16,17 +16,17 @@ As stated in my education technology plan, all of my students have a school-issu
 
 ### Learning Objectives
 
-Students will be able to identify and describe the design features of popular apps that make them "habit forming."  
+Students will be able to identify and describe the design features of popular apps, then write a short argument on whether these features make them "addictive," "habit forming," or neither.  
 
 ### Learning Activities
 
-I will be incorporating the learning activies described below  into the class as part of a one-time lesson. 
+I will be incorporating the learning activies described below into the class as part of a one-time lesson. 
 
 #### Warm Up
-I will have students complete a survey
-How much time do you typically spend daily using apps on your phone? 
-Does the amount of time you spend using apps on your phone negatively impact other aspects of your life (such as academics, finances, relationships, or sleep)? 
-Do you think your phone and the apps you use on your phone are designed to get you to use it either more frequently or for longer durations of time?
+I will have students complete a survey with the following questions as the warm-up activity for the lesson:
+1. How much time do you typically spend daily using apps on your phone? 
+2. Does the amount of time you spend using apps on your phone negatively impact other aspects of your life (such as academics, finances, relationships, or sleep)? 
+3. Do you think your phone and the apps you use on your phone are designed to get you to use it either more frequently or for longer durations of time?
 
 #### Explore
 Watch the following video (VOX, YOUTUBE.COM, 2/23/2018):It’s not you. Phones are designed to be addicting.

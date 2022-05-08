@@ -39,11 +39,12 @@ Students will watch the following (or equivalent) video https://www.youtube.com/
 Students will also read one article on "addictive design features" or an equivalent topic. While reading, students will add their list of features with short descriptions. The class will update the feature wall.
 
 ##### Brainstorm Walk
-I will prepare and post sheets of chart paper around the room, each with the name of one popular app (e.g., Instagram).
+I will prepare and post sheets of chart paper around the room, each with the name of one popular app (e.g., Instagram). In groups, students will post (on post its) a feature of the app that is also on the feature wall. Below each feature, the group will briefly describe how it is used to get users to the use the app either more frequently or for longer periods of time. When groups are done with their chart paper (or app), students will walk around the room to look (and write notes on) other groups' chart papes (apps).
+
+##### 
+
 
 ### Assessment
-
-Describe how you plan to assess the learning objectives described above.
 
 Create a table with the list of “addictive” design features in the first column and the names of two apps that you use most frequently as headers of the next two columns. For each “addictive” design feature in your list, indicate if it is a feature of the two apps in their corresponding cells and describe how it is used to get you to use the app(s) either more frequently or for longer durations of time.
 
@@ -51,7 +52,8 @@ Create a table with the list of “addictive” design features in the first col
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
 
-## More Information on Activities
+## References
+https://nearpod.com/libraries/17810/preview/can-media-be-addictive-L43912058
 Hanging Hashtags: https://app.ellevationeducation.com/Strategies/Activity/Details/349-hanging-hashtags
 Word Walls: https://app.ellevationeducation.com/Strategies/Activity/Details/436-word-walls
 Brainstorm Walk: https://app.ellevationeducation.com/Strategies/Activity/Details/356-brainstorm-walk

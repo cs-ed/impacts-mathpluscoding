@@ -34,9 +34,9 @@ I will have students complete a survey with the following questions as the warm-
 Students will independently analyze images similar to those that can be found on https://www.removed.social/series showing individuals who are "removed" from society. In small groups, students will write a hashtag for the images on a post it or Google Jamboard, which is shared with the class.
 
 ##### Word (Feature) Walls
-Students will watch the following (or equivalent) video https://www.youtube.com/watch?v=NUMa0QkPzns (VOX, YOUTUBE.COM, 2/23/2018: It’s not you. Phones are designed to be addicting). While watching the video, students will make a list of features with short descriptions of the each features. The class will create a feature wall (like a word wall) that the students can reference.  
+Students will watch the following (or equivalent) video https://www.youtube.com/watch?v=NUMa0QkPzns (VOX, YOUTUBE.COM, 2/23/2018: It’s not you. Phones are designed to be addicting). While watching the video, students will make a list of features with short description of the each features. The class will create a feature wall (like a word wall) that the students can reference.  
 
-
+Students will also read one article on "addictive design features" or equivalent topic. While reading, students will ad
 Do a search for “addictive design features” or equivalent topic. Peruse the results and read two of the linked resources. Create a list of “addictive” design features. Share your list with your partner or group. Update your list with any “addictive” design features that your partner or group shared that wasn’t on your list.   
 
 ### Assessment

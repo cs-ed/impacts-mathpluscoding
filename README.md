@@ -16,15 +16,14 @@ As stated in my education technology plan, all of my students have a school-issu
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
-
-Students will be able to identify and describe the “addictive” design features of popular apps.
+Students will be able to identify and describe the design features of popular apps that make them "habit forming."  
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+I will be incorporating the learning activies described below  into the class as part of a one-time lesson. 
 
 #### Warm Up
+I will have students complete a survey
 How much time do you typically spend daily using apps on your phone? 
 Does the amount of time you spend using apps on your phone negatively impact other aspects of your life (such as academics, finances, relationships, or sleep)? 
 Do you think your phone and the apps you use on your phone are designed to get you to use it either more frequently or for longer durations of time?

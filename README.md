@@ -51,10 +51,12 @@ I plan on assess the learning objectives based on the following criteria of succ
 2. Students can correctly describe how each feature is used to get users to use the app either more frequently or for longer durations of time.
 3. Students can write an argument either for or against the idea that apps are designed to be "addictive" by citing at least one of the articles they read or videos they watched. 
 
+The assessment will be evaluated using a 4-point scale based on the criteria for success. I will know if the students are meeting the objectives by the quality of their individiual work and by the distribution of scores. Any lesson can be improved, but distributions that are skewed to the right or distributions that show two clusters of high scoring and low scoring students may suggest my suggest improvements are necessary.
+
 ### Outcomes
 
-
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+My plan facilitates diversity/equity/inclusion by using activitites/strategies from the Ellevation website for emergent bilinguals. My plan helps broaden participation in computing by incorporating computer science to a course that is not STEM-specific. 
+The course plan will help long-term goals in addressing computing impacts on society by highlighting its impacts on society by incorporating this topic in between lesson or within lessons.
 
 ## References
 https://nearpod.com/libraries/17810/preview/can-media-be-addictive-L43912058

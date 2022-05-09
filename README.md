@@ -59,7 +59,8 @@ My plan facilitates diversity/equity/inclusion by using activitites/strategies f
 The course plan will help long-term goals in addressing computing impacts on society by highlighting its impacts on society by incorporating this topic in between lesson or within lessons.
 
 ## References
-https://nearpod.com/libraries/17810/preview/can-media-be-addictive-L43912058
-Hanging Hashtags: https://app.ellevationeducation.com/Strategies/Activity/Details/349-hanging-hashtags
-Word Walls: https://app.ellevationeducation.com/Strategies/Activity/Details/436-word-walls
-Brainstorm Walk: https://app.ellevationeducation.com/Strategies/Activity/Details/356-brainstorm-walk
+
+1. Nearpod. (n.d.). Can Media Be Addictive? Retrieved May 8, 2022, from https://nearpod.com/libraries/17810/preview/can-media-be-addictive-L43912058
+2. Ellevation. (n.d.). Brainstorm Walk. Retrieved May 8, 2022, from https://app.ellevationeducation.com/Strategies/Activity/Details/356-brainstorm-walk
+3. Ellevation. (n.d.). Hanging Hashtags. Retrieved May 8, 2022 from https://app.ellevationeducation.com/Strategies/Activity/Details/349-hanging-hashtags
+4. Ellevation. (n.d.). Word Walls. Retrieved May 8, 2022 from https://app.ellevationeducation.com/Strategies/Activity/Details/436-word-walls
